@@ -1,0 +1,3 @@
+Po wykonanych paru testach iteracja okazała sie o wiele szybsza od rekurencj w Fibonaczim jak i Silni
+
+nie pamientam w jakim pliku dlatego txt
